@@ -1,0 +1,7 @@
+C:\Users\Attil.LAPTOP-9JHV78I2\source\repos\GeneticAlg\GeneticAlg\bin\Debug\GeneticAlg.exe.config
+C:\Users\Attil.LAPTOP-9JHV78I2\source\repos\GeneticAlg\GeneticAlg\bin\Debug\GeneticAlg.exe
+C:\Users\Attil.LAPTOP-9JHV78I2\source\repos\GeneticAlg\GeneticAlg\bin\Debug\GeneticAlg.pdb
+C:\Users\Attil.LAPTOP-9JHV78I2\source\repos\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.csprojAssemblyReference.cache
+C:\Users\Attil.LAPTOP-9JHV78I2\source\repos\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.csproj.CoreCompileInputs.cache
+C:\Users\Attil.LAPTOP-9JHV78I2\source\repos\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.exe
+C:\Users\Attil.LAPTOP-9JHV78I2\source\repos\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.pdb
